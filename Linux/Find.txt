@@ -1,0 +1,54 @@
+public DNS:ec2-107-22-107-229.compute-1.amazonaws.com
+
+USER ID:Administrator
+
+Password:W%9payd=DRW4(G5$Oik52UQHcU@d-pIT
+whoamisu -
+public ip address:107.22.107.229
+
+ssh -i "Ra101254.pem" ec2-user@ec2-54-236-177-21.compute-1.amazonaws.com
+
+Rolandlinus1 server commands
+
+whoami
+
+
+whoami > check who is currently login
+
+ls > listing files/folders
+
+pwd > present working directory
+
+su - > Get root access, then enter root password
+shutdown now > shutdown the virtual machine (VM)
+shutdown -r now > restart the virtual machine (VM)
+
+AlmaLinus commands:     Note these Tools:
+
+yum upgrade              Gitbash
+whoami                   Putty
+hostname                 Windows SSH
+uname -a                 MobaXTerm
+uname
+clear
+history
+cd /
+pwd
+passwd
+cat /etc/passwd
+ip addr
+
+
+
+
+
+
+
+windows AWS
+
+PUBLIC DNS: ec2-44-202-240-175.compute-1.amazonaws.com
+USER ID administrator
+password: t4hHCQoaNXb)bTW2dvOmWfTpIhlU-1B*
+
+
+ssh -i "RAdingo.pem" ec2-user@ec2-54-221-72-71.compute-1.amazonaws.com
